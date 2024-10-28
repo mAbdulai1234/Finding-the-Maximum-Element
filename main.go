@@ -1,8 +1,3 @@
-/*
-Challenge 1: Find the Maximum Element
-
-Write a code that takes an array of integers and returns the maximum element in the array.
-*/
 package main
 import "fmt"
 
