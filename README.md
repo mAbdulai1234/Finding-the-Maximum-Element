@@ -1,2 +1,2 @@
-# Finding-the-Maximum-Element
-finding the maximum element in an array
+# Maximum Element Finder in a Go Array
+This Go program identifies the largest integer in a user-defined array of five elements. Users input five integers, which are stored in the numbers array. The variable maximumElement tracks the highest value encountered. After each number is entered, a loop compares each element against j, initialized at zero. If a number exceeds j, j is updated to that number, and maximumElement reflects this new maximum. Once all entries are processed, the program displays both the array and the highest value. This code demonstrates fundamental looping, conditional logic, and array handling in Go for efficiently determining the maximum value in an array.
